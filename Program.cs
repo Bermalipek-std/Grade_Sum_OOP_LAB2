@@ -19,7 +19,9 @@ if (score <= 79 && score >= 70)
 if (score <= 69 && score >= 60)
     Console.WriteLine("Yur letter grade is D");
 if (score <= 59 && score >= 0)
-    Console.WriteLine("Yur letter grade is F\n\n\n*******************************************************\n\n\n");
+    Console.WriteLine("Yur letter grade is F");
+
+Console.WriteLine("Yur letter grade is F\n\n\n*******************************************************\n\n\n");
 
 
 /*SUM UNTİL ZERO*/
