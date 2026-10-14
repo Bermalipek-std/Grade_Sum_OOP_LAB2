@@ -1,6 +1,6 @@
 ﻿/*GRADAE LETTER*/
     
-Console.WriteLine("Enter your grade score:  ");
+Console.Write("Enter your grade score:  ");
 int score=int.Parse(Console.ReadLine());
 
 while (score > 100 || score <0)
